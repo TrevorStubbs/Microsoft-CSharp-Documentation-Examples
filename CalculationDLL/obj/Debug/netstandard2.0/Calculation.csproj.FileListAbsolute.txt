@@ -1,0 +1,8 @@
+D:\Development Projects\Calculation\bin\Debug\netstandard2.0\Calculation.deps.json
+D:\Development Projects\Calculation\bin\Debug\netstandard2.0\Calculation.dll
+D:\Development Projects\Calculation\bin\Debug\netstandard2.0\Calculation.pdb
+D:\Development Projects\Calculation\obj\Debug\netstandard2.0\Calculation.csproj.CoreCompileInputs.cache
+D:\Development Projects\Calculation\obj\Debug\netstandard2.0\Calculation.AssemblyInfoInputs.cache
+D:\Development Projects\Calculation\obj\Debug\netstandard2.0\Calculation.AssemblyInfo.cs
+D:\Development Projects\Calculation\obj\Debug\netstandard2.0\Calculation.dll
+D:\Development Projects\Calculation\obj\Debug\netstandard2.0\Calculation.pdb

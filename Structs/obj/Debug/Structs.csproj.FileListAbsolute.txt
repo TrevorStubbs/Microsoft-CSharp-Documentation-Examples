@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\bin\Debug\Structs.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\bin\Debug\Structs.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\bin\Debug\Structs.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\obj\Debug\Structs.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Structs\obj\Debug\Structs.pdb

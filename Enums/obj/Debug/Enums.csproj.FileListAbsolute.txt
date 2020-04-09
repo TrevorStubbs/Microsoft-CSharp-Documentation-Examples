@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\bin\Debug\Enums.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\bin\Debug\Enums.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\bin\Debug\Enums.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\obj\Debug\Enums.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Enums\obj\Debug\Enums.pdb

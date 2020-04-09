@@ -1,0 +1,10 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\obj\Debug\Value Types.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\obj\Debug\Value Types.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\bin\Debug\Value Types.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\bin\Debug\Value Types.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\bin\Debug\Value Types.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\obj\Debug\Value Types.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\obj\Debug\Value Types.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\bin\Debug\System.ValueTuple.dll
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\bin\Debug\System.ValueTuple.xml
+D:\Development Projects\C#\Microsoft C# Tutorials\Value Types\obj\Debug\Value Types.csproj.CopyComplete

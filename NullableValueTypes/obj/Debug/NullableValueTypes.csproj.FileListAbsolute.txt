@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\obj\Debug\NullableValueTypes.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\obj\Debug\NullableValueTypes.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\bin\Debug\NullableValueTypes.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\bin\Debug\NullableValueTypes.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\bin\Debug\NullableValueTypes.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\obj\Debug\NullableValueTypes.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\NullableValueTypes\obj\Debug\NullableValueTypes.pdb

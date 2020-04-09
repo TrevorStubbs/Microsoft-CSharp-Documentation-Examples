@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Lamda Statments\bin\Debug\Lamda Statments.exe.config
+D:\Development Projects\C#\Lamda Statments\bin\Debug\Lamda Statments.exe
+D:\Development Projects\C#\Lamda Statments\bin\Debug\Lamda Statments.pdb
+D:\Development Projects\C#\Lamda Statments\obj\Debug\Lamda Statments.csprojAssemblyReference.cache
+D:\Development Projects\C#\Lamda Statments\obj\Debug\Lamda Statments.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Lamda Statments\obj\Debug\Lamda Statments.exe
+D:\Development Projects\C#\Lamda Statments\obj\Debug\Lamda Statments.pdb

@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\bin\Debug\ClassesIntro.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\bin\Debug\ClassesIntro.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\bin\Debug\ClassesIntro.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\obj\Debug\ClassesIntro.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\obj\Debug\ClassesIntro.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\obj\Debug\ClassesIntro.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\ClassesIntro\obj\Debug\ClassesIntro.pdb

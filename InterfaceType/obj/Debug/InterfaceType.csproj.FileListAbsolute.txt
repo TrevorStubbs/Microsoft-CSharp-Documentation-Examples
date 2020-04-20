@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\bin\Debug\InterfaceType.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\bin\Debug\InterfaceType.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\bin\Debug\InterfaceType.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\obj\Debug\InterfaceType.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\obj\Debug\InterfaceType.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\obj\Debug\InterfaceType.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\InterfaceType\obj\Debug\InterfaceType.pdb

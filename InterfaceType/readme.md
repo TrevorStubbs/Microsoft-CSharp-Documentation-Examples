@@ -27,5 +27,3 @@ class Point : IPoint
 ```C#
 class Coord : ICoord : IPoint
 ```
-
-

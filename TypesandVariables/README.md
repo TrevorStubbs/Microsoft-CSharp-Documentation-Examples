@@ -17,4 +17,19 @@
 ### User Defined Value Types
 - [Enum types](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/EnumType)
     - Named constants of underlying integral types
-- [Struct Types]()
+- [Struct Types](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/StructsType)
+    - A value type that can encapsulate data and related functionally
+    - A lightweight class that is a value type
+- [Nullable Value Type](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/NullableValueTypes)
+    - Extentions of all other value types with a `null` value
+
+## Reference Types
+- Variable of reference types store references to their data.
+    - 2 variables can reference the same object; therefore, operations on one variable can affect the object referenced by the other variable.
+
+### C# Reference Types
+- [Class Type](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/ClassType)
+- [Interface Type](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/InterfaceType)
+- [Array Type](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/ArrayType)
+- Delegate Type
+    - *TODO Read and understand delegates.*

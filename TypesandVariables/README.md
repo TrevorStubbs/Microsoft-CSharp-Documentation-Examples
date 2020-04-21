@@ -1,6 +1,6 @@
 # [Types and Variables](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables)
 
-## Value Types
+## [Value Types](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/Value%20Types)
 - A variable of a value type contains an instance of the type.
 ### Built in Value Types
 - Signed integral: `sbyte`, `short`, `int`, `long`
@@ -15,4 +15,6 @@
 - Boolean: `bool`
 
 ### User Defined Value Types
-- [Enum types]
+- [Enum types](https://github.com/TrevorStubbs/Microsoft-CSharp-Documentation-Examples/tree/master/TypesandVariables/EnumType)
+    - Named constants of underlying integral types
+- [Struct Types]()

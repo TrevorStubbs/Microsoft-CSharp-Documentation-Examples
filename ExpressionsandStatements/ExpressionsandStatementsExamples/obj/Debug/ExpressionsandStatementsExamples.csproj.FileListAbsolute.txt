@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\bin\Debug\ExpressionsandStatementsExamples.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\bin\Debug\ExpressionsandStatementsExamples.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\bin\Debug\ExpressionsandStatementsExamples.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\obj\Debug\ExpressionsandStatementsExamples.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\obj\Debug\ExpressionsandStatementsExamples.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\obj\Debug\ExpressionsandStatementsExamples.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\ExpressionsandStatements\ExpressionsandStatementsExamples\obj\Debug\ExpressionsandStatementsExamples.pdb

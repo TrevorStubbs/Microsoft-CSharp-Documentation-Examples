@@ -32,7 +32,7 @@
     a + b
     ```
 
-    - Expressions that can be used as staements include:
+    - Expressions that can be used as statements include:
         - Method invocation
         - Object allocations using the `new` operator
         - Assignments using `=` and the compound assignment operators.
@@ -47,7 +47,7 @@
             - TODO Look up this expression
 
 -  Selection Statements
-    - used to select one of any number of possible satements (flow control)
+    - used to select one of any number of possible statements (flow control)
         - using `if`, `else if`, `else` and `switch` keywords
     ```C#
     if(a > b)
@@ -101,11 +101,11 @@
 - `checked` and `unchecked`statements
     - used to control the overflow-checking context for integral-type arithmetic operations and conversions.
 
-- `lock` statments
+- `lock` statements
     - used to obtain the mutual-exclusion lock for a given object, execute a statement, and then release the lock
 
-- `using` statments
-    - used to obtain a resource, execute a statment, and then dispose of that resource.
+- `using` statements
+    - used to obtain a resource, execute a statement, and then dispose of that resource.
 
 ### [code examples](TODO)
 

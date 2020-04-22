@@ -1,0 +1,7 @@
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\bin\Debug\HashtableClass.exe.config
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\bin\Debug\HashtableClass.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\bin\Debug\HashtableClass.pdb
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\obj\Debug\HashtableClass.csprojAssemblyReference.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\obj\Debug\HashtableClass.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\obj\Debug\HashtableClass.exe
+D:\Development Projects\C#\Microsoft C# Tutorials\CollectionsandDataStructures\HashtableClass\obj\Debug\HashtableClass.pdb

@@ -84,7 +84,7 @@
         //While `i` is less than 10 do this statement then count up by 1
     }
 
-    foreach(apple in box)
+    foreach(int apple in box)
     {
         //for each apple in the box do this statement
     }
